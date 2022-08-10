@@ -43,7 +43,7 @@ export default function Home({posts}) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>HDRP's GameDev Blog</title>              
+        <title>HDRP GameDev Blog</title>              
        
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="HDRP GameDev Blog" />
