@@ -49,14 +49,14 @@ export default function Home({posts}) {
         <meta property="og:site_name" content="HDRP GameDev Blog" />
         <meta property="og:title" content="HDRP GameDev Blog" />
         <meta property="og:description" content="게임 및 CG 관련 정보를 모아보기 위해 만들었습니다." />
-        <meta property="og:image" content="../../public/profile-hdrp0720.png" />
+        <meta property="og:image" content="../public/profile-hdrp0720.png" />
         <meta property="og:url" content="https://bloggy-hdrp0720.vercel.app/" />
       
         <meta property="twitter:card" content="summary" />
         <meta property="twitter:site" content="HDRP GameDev Blog" />
         <meta property="twitter:title" content="HDRP GameDev Blog" />
         <meta property="twitter:description" content="게임 및 CG 관련 정보를 모아보기 위해 만들었습니다." />
-        <meta property="twitter:image" content="../../public/profile-hdrp0720.png" />
+        <meta property="twitter:image" content="../public/profile-hdrp0720.png" />
         <meta property="twitter:url" content="https://bloggy-hdrp0720.vercel.app/" />
 
         <link rel="icon" href="/favicon.ico" />     
